@@ -19,7 +19,7 @@
 * 🌱 Currently learning Full Stack Development
 * 💻 Passionate about Software & Web Development
 * 🤖 Interested in AI and Computer Vision
-* 🔐 Interested in Cybersecurity and secure applications
+* 🔐 Interested in Cybersecurity and Secure Applications
 * 🧠 Practicing Data Structures & Algorithms
 * 🔥 Building real-world projects
 * 📚 Always learning new technologies
@@ -31,21 +31,19 @@
 
 <p align="center">
 
-  <a href="https://github.com/Praba1234">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/Praba1234">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
-  <!-- Add your LinkedIn URL here -->
-
-  <a href"www.linkedin.com/in/venkata-praballika-sunku">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/venkata-praballika-sunku">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
 </p>
 
@@ -160,7 +158,7 @@ https://github.com/Praba1234/password-generator
 
 **HTML • CSS • JavaScript • Web Crypto API • LocalStorage**
 
-FortressPass is a web-based password security application designed to generate strong passwords, memorable passphrases and secure PINs.
+FortressPass is a web-based password security application designed to generate strong passwords, memorable passphrases, and secure PINs.
 
 ### ✨ Features
 
@@ -377,5 +375,9 @@ I'm interested in opportunities related to:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"
+    alt="Footer"
+  />
 </p>
+```
