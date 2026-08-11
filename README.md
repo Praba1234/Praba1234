@@ -1,112 +1,181 @@
 # 👋 Hi, I'm Praballika Sunku
 
-### 🚀 Aspiring Software Developer | Python | Java | JavaScript | React | FastAPI
+### 🚀 Aspiring Software Developer | Python | Java | JavaScript | Full Stack Developer in Progress
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Python+Developer;Java+Developer;JavaScript+Developer;Full+Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Praba1234">
-    <img src="https://img.shields.io/github/followers/Praba1234?label=Followers&style=for-the-badge" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/Praba1234?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-4-blue?style=for-the-badge" alt="Repositories">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Praba1234&style=for-the-badge&color=blue" alt="Profile Views">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Developer+%F0%9F%90%8D;Java+Developer+%E2%98%95;JavaScript+Developer+%E2%9A%A1;Full+Stack+Developer+in+Progress;AI+%26+Computer+Vision+Enthusiast;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate and motivated aspiring software developer who enjoys building practical applications and solving programming problems.
-
-I have a strong interest in **Software Development, Full Stack Development, Python, Java, JavaScript, React, FastAPI, Artificial Intelligence, Computer Vision, and Problem Solving**.
-
-I continuously improve my skills by building projects, practicing coding problems, and learning new technologies.
-
-* 🔭 Currently improving my software development skills
-* 🌱 Currently learning **Python, JavaScript, React and FastAPI**
-* 💻 Interested in **Frontend and Backend Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🤖 Exploring **AI and Computer Vision**
-* 🔐 Interested in **Cybersecurity and secure application development**
-* 🎯 Goal: Become a skilled **Full Stack / Software Developer**
-* 🚀 Love building real-world projects
-* 📚 Always learning and improving
+* 🐍 Python Developer
+* ☕ Java Developer
+* ⚡ JavaScript Developer
+* 🌱 Currently learning Full Stack Development
+* 💻 Passionate about Software & Web Development
+* 🤖 Interested in AI and Computer Vision
+* 🔐 Interested in Cybersecurity and secure applications
+* 🧠 Practicing Data Structures & Algorithms
+* 🔥 Building real-world projects
+* 📚 Always learning new technologies
+* 🎯 Aspiring Software Developer
 
 ---
 
-# 🛠️ Tech Stack
+# 🌐 Connect With Me
 
-### 👩‍💻 Programming Languages
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
+  <a href="https://github.com/Praba1234">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <!-- Add your LinkedIn URL here -->
+
+  <a href="https://www.linkedin.com/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
 </p>
 
-### 🌐 Frontend Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+# 💻 Tech Stack
+
+### 🐍 Programming Languages
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,java,js,html,css"
+    alt="Programming Languages"
+  />
 </p>
 
-### ⚙️ Backend Development
+### ⚛️ Frameworks & Libraries
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express"
+    alt="Frameworks"
+  />
 </p>
 
-### 🗄️ Database & Storage
+### 🗄️ Databases & Storage
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,sqlite"
+    alt="Databases"
+  />
 </p>
 
 ### 🤖 AI & Computer Vision
 
+<p align="center">
+
 `Computer Vision` `Face Detection` `Emotion Recognition` `AI`
 
-### 🧠 Core Concepts
+</p>
 
-`OOP` `Data Structures` `Algorithms` `Problem Solving` `REST APIs` `Exception Handling`
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode"
+    alt="Tools"
+  />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Praba1234&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Praba1234&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praba1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+ width="48%"
+ alt="Top Languages"
+/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Praba1234&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡️ 1. FortressPass – Password Security Suite
+| 🚀 Project                | 📝 Description                                                                | 🛠️ Technologies               |
+| ------------------------- | ----------------------------------------------------------------------------- | ------------------------------ |
+| 🛡️ **FortressPass**      | Password security suite for generating secure passwords, passphrases and PINs | JavaScript, HTML, CSS          |
+| 🤖 **AuraFace AI**        | Real-time face detection and emotion recognition application                  | JavaScript, HTML, CSS, Node.js |
+| ☕ **Java DSA Practice**   | Collection of Java programming and algorithm practice problems                | Java                           |
+| 🍽️ **Restaurant System** | Java-based application for practicing OOP and application logic               | Java, OOP                      |
 
-🔗 **Repository:**
+---
+
+# 🛡️ FortressPass – Password Security Suite
+
+🔗 **GitHub:**
 https://github.com/Praba1234/password-generator
 
-FortressPass is a web-based password security application designed to generate strong and secure passwords, passphrases, and PINs.
+### 🛠️ Technologies
+
+**HTML • CSS • JavaScript • Web Crypto API • LocalStorage**
+
+FortressPass is a web-based password security application designed to generate strong passwords, memorable passphrases and secure PINs.
 
 ### ✨ Features
 
 * 🔐 Cryptographically secure password generation
 * 🎲 Custom password length
-* 🔤 Custom character selection
+* 🔤 Character selection
 * 🗣️ Memorable passphrase generation
 * 🔢 Secure PIN generation
 * 📊 Password strength analysis
 * 📈 Password entropy calculation
-* ⏱️ Estimated password crack-time analysis
+* ⏱️ Crack-time estimation
 * 📦 Bulk password generation
 * 📄 TXT and CSV export
 * ⭐ Password history and favorites
 * 🌙 Dark/Light theme
-
-### 🛠️ Technologies
-
-`HTML` `CSS` `JavaScript` `Web Crypto API` `LocalStorage`
 
 ### 💡 What I Learned
 
@@ -114,19 +183,23 @@ This project helped me improve my knowledge of:
 
 * JavaScript
 * Browser APIs
-* Cryptographic concepts
+* Web security concepts
 * LocalStorage
-* Responsive UI
-* Security-focused application development
+* Responsive UI development
+* Secure random number generation
 
 ---
 
-# 🤖 2. AuraFace AI – Real-Time Face & Emotion Detector
+# 🤖 AuraFace AI – Face & Emotion Detector
 
-🔗 **Repository:**
+🔗 **GitHub:**
 https://github.com/Praba1234/face-emotion-detector
 
-AuraFace AI is a computer-vision-based web application that detects faces and recognizes emotions in real time.
+### 🛠️ Technologies
+
+**JavaScript • HTML • CSS • Node.js • Express.js • Chart.js • IndexedDB • LocalStorage**
+
+AuraFace AI is a computer-vision-based web application that detects faces and recognizes emotions.
 
 ### ✨ Features
 
@@ -134,7 +207,7 @@ AuraFace AI is a computer-vision-based web application that detects faces and re
 * 😊 Emotion recognition
 * 👥 Multiple-face detection
 * 📸 Image-based emotion analysis
-* 📊 Emotion analytics dashboard
+* 📊 Emotion analytics
 * 📈 Confidence visualization
 * 💾 IndexedDB storage
 * 💾 LocalStorage support
@@ -153,10 +226,6 @@ AuraFace AI is a computer-vision-based web application that detects faces and re
 * 😨 Fearful
 * 🤢 Disgusted
 
-### 🛠️ Technologies
-
-`JavaScript` `HTML` `CSS` `Node.js` `Express.js` `Chart.js` `IndexedDB` `LocalStorage`
-
 ### 💡 What I Learned
 
 This project helped me understand:
@@ -168,18 +237,20 @@ This project helped me understand:
 * REST APIs
 * Data Visualization
 * Browser Storage
-* Frontend and Backend Integration
+* Frontend & Backend Integration
 
 ---
 
-# ☕ 3. Java Programming & DSA Practice
+# ☕ Java Programming & DSA Practice
 
-🔗 **Repository:**
+🔗 **GitHub:**
 https://github.com/Praba1234/AIDS
 
-This repository contains my Java programming practice and coding problem solutions.
+### 🛠️ Technologies
 
-It includes problems related to **Arrays, Algorithms, Data Structures and Problem Solving**.
+**Java • OOP • Data Structures • Algorithms**
+
+This repository contains my Java programming practice and algorithmic problem-solving work.
 
 ### 📚 Topics Practiced
 
@@ -189,68 +260,100 @@ It includes problems related to **Arrays, Algorithms, Data Structures and Proble
 * Remove Duplicates
 * Remove Element
 * Array Problems
-* Algorithmic Problems
+* Algorithm Problems
 * Java Programming
 * Object-Oriented Programming
 
-### 🎯 Purpose
+### 🎯 Main Focus
 
-The main goal of this repository is to improve my:
-
-* Problem-solving skills
-* Logical thinking
-* Algorithm knowledge
-* Java programming
-* Data Structures & Algorithms
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praba1234&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praba1234&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+* 🧠 Logical thinking
+* 💡 Problem solving
+* 📚 Data Structures
+* ⚡ Algorithms
+* ☕ Java programming
+* ⏱️ Time complexity
 
 ---
 
-# 🔥 GitHub Streak
+# 🍽️ Restaurant System
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Praba1234&theme=tokyonight&hide_border=true" />
-</p>
+### 🛠️ Technologies
+
+**Java • OOP**
+
+A Java-based application created to practice object-oriented programming concepts and application logic.
+
+### 💡 Concepts Practiced
+
+* Classes & Objects
+* Constructors
+* Methods
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Java programming fundamentals
 
 ---
 
-# 📈 Contribution Graph
+# 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praba1234&theme=tokyo-night&hide_border=true" />
-</p>
+* 🐍 Python
+* ⚛️ React.js
+* ⚡ FastAPI
+* 🗄️ SQL
+* 🔗 REST APIs
+* 🌐 Full Stack Development
+* 🧠 Data Structures & Algorithms
+* 🤖 AI & Computer Vision
+* 🔐 Cybersecurity
+* 🐙 Git & GitHub
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 Goals
+
+* 🚀 Become a Full Stack Developer
+* 💻 Build scalable real-world applications
+* 🐍 Become strong in Python
+* ⚛️ Improve React skills
+* ⚡ Build production-ready FastAPI applications
+* 🧠 Strengthen DSA and problem-solving skills
+* 🤖 Explore AI and Machine Learning
+* 🌎 Contribute to Open Source
+* ☁️ Learn Cloud Technologies
+* 📚 Continuously improve programming skills
+
+---
+
+# 📌 What I'm Working On
 
 ```text
-Python
-   ↓
-FastAPI
-   ↓
-React
-   ↓
-REST APIs
-   ↓
-Full Stack Development
-   ↓
-AI & Computer Vision
+🐍 Python Development
+        ↓
+⚡ FastAPI & REST APIs
+        ↓
+⚛️ React Applications
+        ↓
+🗄️ SQL & Database Projects
+        ↓
+🌐 Full Stack Applications
+        ↓
+🤖 AI & Computer Vision
+        ↓
+🚀 Real-World Projects
 ```
-
-I'm currently focusing on becoming stronger in **frontend + backend development** while continuing to improve my programming and problem-solving skills.
 
 ---
 
-# 💼 Career Interests
+# 💡 My Developer Philosophy
+
+> **Learn → Practice → Build → Improve → Repeat 🚀**
+
+I believe that the best way to become a better developer is to continuously **learn new concepts, practice coding, build projects, and improve through experience**.
+
+---
+
+# 🤝 Open to Opportunities
 
 I'm interested in opportunities related to:
 
@@ -259,40 +362,20 @@ I'm interested in opportunities related to:
 * ☕ Java Development
 * 🌐 Full Stack Development
 * ⚛️ React Development
-* ⚡ FastAPI / Backend Development
+* ⚡ Backend Development
 * 🤖 AI & Computer Vision
 * 🔐 Secure Application Development
 
 ---
 
-# 🧠 My Development Philosophy
-
-> **Learn → Practice → Build → Improve → Repeat 🚀**
-
-I believe the best way to learn programming is by combining **theory with hands-on projects**.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Praba1234">
-  <img src="https://img.shields.io/badge/GitHub-Praba1234-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-# ⭐ Thank You for Visiting!
-
-Thanks for visiting my GitHub profile!
-
-If you find my projects interesting, feel free to ⭐ star the repositories and connect with me.
+# ⭐ Thank You for Visiting My Profile!
 
 <p align="center">
 
 ### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
